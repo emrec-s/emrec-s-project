@@ -1,5 +1,6 @@
-- Hi, I’m @emrec-s and work as an analyst, I’m interested in Data Science and Models. 
-- Currently improving SAS, Python, SQL, R.
+- Hi, I’m @emrec-s and work as a consultant, Data science and models.
+- Currently improving SAS, Python, SQL, R, Linux.
+- Planning to share some code here.
 
 <!---
 emrec-s/emrec-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
